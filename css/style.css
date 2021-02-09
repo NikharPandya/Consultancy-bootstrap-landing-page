@@ -1,6 +1,7 @@
-.jumbotron {
-
+header.jumbotron{
+ background: url("1.png");
 }
+
 .btn-primary {
     background-color: #c60063;
     border-color: #c60063;
